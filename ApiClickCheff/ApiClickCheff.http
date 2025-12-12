@@ -1,0 +1,6 @@
+@ApiClickCheff_HostAddress = http://localhost:5171
+
+GET {{ApiClickCheff_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
